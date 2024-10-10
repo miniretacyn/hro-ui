@@ -1,0 +1,16 @@
+export const border = '#D0D3D6';
+export const themeTextColor = '#1F2329';
+export const primaryDangerHover = '#F76560';
+export const primaryDangerActive = '#CB272D';
+export const activeBg = '';
+export const themeColor = '#00A66D';
+export const green1 = '#E8FFF3';
+export const green2 = '#ADEDCE';
+export const themeSelectColor = '#009062';
+export const themeHoverColor = '#49CA94';
+export const white = '#ffffff';
+export const grey1 = '#F2F3F5';
+export const grey2 = '#E3E5E6';
+export const textColorError = '#F53F3F';
+export const colorErrorHover = '#fdccc961';
+export const colorErrorActive = '#FBACA3';
